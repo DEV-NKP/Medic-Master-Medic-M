@@ -182,5 +182,6 @@ Medic-M is deals with the medical components and is a marketplace for daily life
 > From the notification, Seller can get the pending delivery notification. The cart add time will be visible from both User end.
 ![NOTIFICATION!](README_IMAGE/Notification.png)
 
-********************************************ⒸAll Rights Reserved By "TEAM_DELTA"********************************************
+********************************************ⒸAll Rights Reserved By "TEAM_MATRIX
+"********************************************
 
