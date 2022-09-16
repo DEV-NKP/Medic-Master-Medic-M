@@ -1,0 +1,58 @@
+.container1{
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    border: 2px solid #28a78e;
+    max-width: 400px;
+    max-height: 800px;
+    /*background-color: #90d57c*/
+    background-image: linear-gradient(to bottom right, #7d097b, rgb(55, 48, 146));
+}
+
+.container1 h1{
+    text-align: center;
+    color: #b7b5f9;
+}
+
+img{
+    padding-top: 10px;
+    border-radius: 15px;
+    width: 350px;
+}
+
+.orderno{
+    /*padding-left: 15px;*/
+    color: #a5e875;
+}
+
+.productpay{
+    color: #a5e875;
+}
+
+.servicecharge{
+    color: #a5e875;
+}
+
+.totalpay{
+    color: #f4a9a9;
+}
+
+.button1 button{
+    border-radius: 4px;
+    background-color:#d63549;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 0px;
+}
+
+button:hover{
+    background-color:  #f4511e;
+    color: white;
+    transition: 0.5s;
+}

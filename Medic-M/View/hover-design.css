@@ -1,0 +1,88 @@
+.left-option{
+    background-color: #0f0e1a;
+                  padding-top: 6px;
+                  padding-bottom: 6px;
+}
+
+.left-option:hover{
+    background-color: rgba(99, 66, 71, 0.644);
+    border:1px solid #dabdbd;
+    padding-top: 6px;
+    padding-bottom: 6px;
+
+
+}
+
+.log-out{
+ 
+        text-decoration: none;
+        background-color: #484c72;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 30px;
+        color: #1dd8c8;
+        bottom: 100px;
+
+               
+}
+.log-out:hover{
+ 
+    text-decoration: none;
+    background-color: #45486b;
+    border:1px solid rgb(138, 230, 230);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 30px;
+    color: #ffffff;
+    bottom: 100px;
+
+           
+}
+.search{
+    padding-top:10px ; 
+    padding-bottom: 10px; 
+    padding-left: 20px; 
+    padding-right: 20px;
+     border-radius: 15px;
+      border-width: 0; 
+      background-color: #dfc1c3; 
+      font-size: 18px;
+}
+.search:hover{
+    padding-top:10px ; 
+    padding-bottom: 10px; 
+    padding-left: 20px; 
+    padding-right: 20px;
+     border-radius: 15px;
+      border:1px solid aliceblue; 
+      background-color: #d6abaf; 
+      font-size: 18px;
+
+}
+
+.button{
+    color: azure; 
+    padding-top:10px ; 
+    padding-bottom: 10px;
+     padding-left: 12px; 
+     padding-right: 12px;
+      border-radius: 10px; 
+      border-width: 0; 
+      background-color: #d63549;
+       font-size: 18px;
+}
+.button:hover{
+    color: azure; 
+    padding-top:10px ; 
+    padding-bottom: 10px;
+     padding-left: 12px; 
+     padding-right: 12px;
+      border-radius: 10px; 
+      border: 1px solid aliceblue; 
+      background-color: #af2838;
+       font-size: 18px;
+}

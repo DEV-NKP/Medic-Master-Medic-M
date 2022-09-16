@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(63, 62, 62);
+    color: aliceblue;
+    background-image: url(image/cardback.svg), url(image/cardback2.svg);
+ background-position:  left top, right bottom;
+    background-repeat: no-repeat;
+background-size: 20%;
+background-attachment: fixed;
+
+}
+
+#title{
+    color: aquamarine;
+    text-align: center;
+    font-size: 40px;
+}
+table{
+    width: 90%;
+    
+}
+#tdimage
+{
+width: 50%;
+}
+#profileimage{
+    width: 250px;
+    padding-right: 50px;
+}
+
+#tddetail
+{
+    width: 50%;
+}
+
+#subtitle{
+    color: antiquewhite;
+    text-align: left;
+    font-size: 25px;
+}
+#codename{
+    text-align: left;
+    font-size: 15px;
+    color: aquamarine;
+}
+#mailsend{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+#coverl{
+    margin-left:  40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-start-start-radius: 20px;
+    border-end-start-radius: 20px;
+    background-color: #ffffff26;  
+    backdrop-filter: blur(5px);
+}
+
+#coverr{
+    margin-right: 20%;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    border-end-end-radius: 20px;
+    border-start-end-radius: 20px; 
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+}
+
+#prodetail{
+  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+text-align: center;
+}

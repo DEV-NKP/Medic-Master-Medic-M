@@ -1,0 +1,38 @@
+.table-design {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size:14px;
+    min-width: 900px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+}
+
+    .table-design thead tr {
+        background-color: #c52b3dde;
+        color: aliceblue;
+        text-align: center;
+        font-weight: bold;
+          font-size:18px;
+    }
+
+    .table-design th,
+    .table-design td {
+        padding: 15px 15px;
+        text-align: center;
+    }
+
+.table-design tbody tr{
+    border-bottom: 1px solid #d63549;
+}
+
+    .table-design tbody tr:nth-of-type(even) {
+        background-color: #da34477c;
+        color:aliceblue;
+    }
+    .table-design tbody tr:nth-of-type(odd) {
+        background-color: #dceafd;
+    }
+.table-design tbody tr:last-of-type{
+    border-bottom: 2px solid #d63549;
+}

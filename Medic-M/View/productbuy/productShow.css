@@ -1,0 +1,147 @@
+body{
+    background-color: #22212e;
+
+}
+
+#container{
+    padding: 15px;
+    border-radius: 15px;
+    border: 2px solid #28a78e;
+    max-width: 300px;
+    max-height: 500px;
+}
+
+#container:hover{
+    border: 2px solid #d63549;
+    color: white;
+    transition: 0.5s;
+}
+
+
+.container{
+    background-color: #403e56;
+    max-width: 30%;
+    /*text-align: center;*/
+}
+.picture{
+    text-align: center;
+}
+.picture img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+}
+
+.details{
+    font-weight: bold;
+    font-size: 25px;
+    color: antiquewhite;
+    padding-left: 0px;
+    text-align: center;
+
+    padding-bottom: 10px;
+}
+.details p{
+    font-weight: normal;
+    font-size: 15px;
+    color: rgb(193, 147, 88);
+    padding-left: 10px;
+    padding-bottom: 10px;
+    float: left;
+    text-align: left;
+}
+
+.details h3{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(24, 165, 200);
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.addtocart button{
+    border-radius: 4px;
+    background-color:#d63549;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 0px;
+}
+
+button:hover{
+    background-color:  #f4511e;
+    color: white;
+    transition: 0.5s;
+}
+
+
+table{
+    width: 100%;
+    text-align: center;
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-top: -30px;
+}
+#min{
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.button2 input{
+    width: 30px;
+    height: 15px;
+    text-align: center;
+    border-radius: 8px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 0px;
+}
+
+.button2 img{
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+
+#minus{
+    background-color: white;
+    width: 30px;
+    height: 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    cursor: pointer
+}
+
+#minus:hover{
+    background-color: #e2e2e226;
+    border: 1px solid #ffffff;
+    transition: 0.5s;
+}
+
+#plus{
+    background-color: white;
+    width: 30px;
+    height: 20px;
+    margin-top: 10px;
+    border-radius: 8px;
+    cursor: pointer
+}
+#plus:hover{
+    background-color: #e2e2e226;
+    border: 1px solid #ffffff;
+    transition: 0.5s;
+}
+.addtocart{
+    width: 100%;
+    text-align: center;
+}
+

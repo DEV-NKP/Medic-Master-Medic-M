@@ -1,0 +1,11 @@
+.layer1_details
+{
+    font-size: 17px;
+    font-weight: lighter;
+}
+h6::first-letter
+{
+    font-weight: bold;
+    font-size: 28px;
+    color: #169c7f;
+}

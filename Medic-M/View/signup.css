@@ -1,0 +1,58 @@
+#signup_uname_alreadymsg
+{
+    display: none;
+}
+#signup_email_alreadymsg
+{
+    display: none;
+}
+.nogap
+{
+    padding-top: 18px;
+}
+
+.item{
+padding: 10px;
+padding-left: 20px;
+padding-right: 20px;
+font-size: 20px;
+font-weight: bolder;
+background-color: rgba(131, 79, 105, 0.608);
+border-radius: 5px;
+border: 0px;
+border-right: 1px solid rgb(93, 17, 17);
+border-left: 1px solid white;
+}
+
+#list{
+    text-align: center;
+    padding-bottom: 20px;
+}
+#select1{
+    background-color: #ccace7;
+    border: none;
+    border-top: 1px solid rgb(136, 20, 20);
+    border-left: 1px solid rgb(136, 20, 20);
+    border-right: 1px solid rgb(136, 20, 20);
+}
+#select2{
+    background-color: #ca757a;
+    border: none;
+    border-top: 1px solid rgb(136, 20, 20);
+    border-left: 1px solid rgb(136, 20, 20);
+    border-right: 1px solid rgb(136, 20, 20);
+}
+#select3{
+    background-color: #ccace7;
+    border: none;
+    border-top: 1px solid rgb(136, 20, 20);
+    border-left: 1px solid rgb(136, 20, 20);
+    border-right: 1px solid rgb(136, 20, 20);
+}
+#select4{
+     background-color: #45b670;
+    border: none;
+    border-top: 1px solid rgb(136, 20, 20);
+    border-left: 1px solid rgb(136, 20, 20);
+    border-right: 1px solid rgb(136, 20, 20);
+}
