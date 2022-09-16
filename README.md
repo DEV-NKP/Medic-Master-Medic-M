@@ -19,7 +19,9 @@ Thank you everyone.
 -------------------
 
  >> Visual Studio Code
+ 
  >> XAMPP
+ 
  >> MySQL Server
 
 --------------------------
@@ -38,10 +40,15 @@ Thank you everyone.
 --------------
 
  >> First, copy the "Medic-M" folder and go to your Local Disc (C).
+ 
  >> After installing "XAMPP" there will be a "xampp" folder. 
+ 
  >> In "xampp" folder go to "htdocs" folder and paste the folder "Medic-M"
+ 
  >> Open xampp controle panel and start the actions of "Apache" and "MySQL" module.
+ 
  >> Open any browser of your device and paste "localhost/Medic-M/View/".
+ 
  >> The browser will open the application and the system will be ready to use.
 
 --------------------
@@ -49,11 +56,17 @@ Thank you everyone.
 --------------------
 
  >> To get access to the administrative permissions, administrator UserId is: "admin" & Password: "admin".
+ 
  >> You can sign up as Admin also.
+ 
  >> If you want to sell medicine, make sure you have signed up as a "Seller".
+ 
  >> After sign up log in as a "Seller" to add and deliver product.
+ 
  >> To buy medicines, sign up as "Customer".
+ 
  >> Before placing an order, Customer can remove or add a product to the cart in the "Buy Products" option.
+ 
  >> There are 3 different users: Admin, Seller & Customer.
 
    Admin :
@@ -101,6 +114,7 @@ Medic-M is deals with the medical components and is a marketplace for daily life
 | Developer's Informations |
 ----------------------------
 
+
          1. Niloy Kanti Paul
 	    Email	: niloykantipaul@gmail.com
 	    LinkedIn	: https://www.linkedin.com/in/niloy-kanti-paul-5543181ab/
@@ -124,22 +138,22 @@ Medic-M is deals with the medical components and is a marketplace for daily life
 ----------------------
 
 > At the very first, an attractive landing page with developers' information will be presented.
-![LANDING_PAGE!](README_IMAGE/Landing_Page.PNG)
+![LANDING_PAGE!](README_IMAGE/Landing_Page.png)
 
 > Medic-M has it's own designed logo .
-![LOGO!](README_IMAGE/Logo.PNG)
+![LOGO!](README_IMAGE/Logo.png)
 
 > A pop up log in page will arrive at the time of log in.
-![LOGIN!](README_IMAGE/LogIn.PNG)
+![LOGIN!](README_IMAGE/LogIn.png)
 
 > Medic-M has three different sign up page for different users.
 ![SIGN_UP!](README_IMAGE/Sign_Up.png)
 
 > Admin can ban users for any suspicious tasks.
-![BAN_USER!](README_IMAGE/Ban_User.PNG)
+![BAN_USER!](README_IMAGE/Ban_User.png)
 
 > Admin can view products and delete medicines.
-![DELETE_PRODUCT!](README_IMAGE/Delete_Product.PNG)
+![DELETE_PRODUCT!](README_IMAGE/Delete_Product.png)
 
 > In the profile section, all user data are given and a Bank option is there for every User.
 ![PROFILE!](README_IMAGE/Profile.png)
@@ -148,7 +162,7 @@ Medic-M is deals with the medical components and is a marketplace for daily life
 ![ACCOUNT!](README_IMAGE/Account.png)
 
 > Customer can search medicine, increase the quantity and add medicine in cart.
-![ADD_IN_CART!](README_IMAGE/Add_In_Cart.PNG)
+![ADD_IN_CART!](README_IMAGE/Add_In_Cart.png)
 
 > Before placing order, Customer can add or remove medicine from cart.
 ![BUY_PRODUCT!](README_IMAGE/Buy_Product.png)
@@ -160,7 +174,7 @@ Medic-M is deals with the medical components and is a marketplace for daily life
 ![PRODUCT_OPTION!](README_IMAGE/Product_Option.png)
 
 > User can see resently added medicines .
-![RECENT_PRODUCT!](README_IMAGE/Recent_Product.PNG)
+![RECENT_PRODUCT!](README_IMAGE/Recent_Product.png)
 
 > Seller can search and see the medicine details.
 ![SEARCH_PRODUCT!](README_IMAGE/Search_Product.png)
